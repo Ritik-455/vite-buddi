@@ -356,6 +356,7 @@ ul {
 .accordion-item {
   border: none !important;
 }
+
 .gap-21{
   gap: 21px;
 }
@@ -505,6 +506,9 @@ filter: blur(250px);
 }
 
 @media (min-width:992px) {
+  .accordion{
+    max-width:830px;
+  }
   .mt-lg-41 {
     margin-top: 41px;
   }
