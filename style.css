@@ -545,10 +545,6 @@ filter: blur(250px);
   }
 }
 
-@media (min-width:1200px) {
- 
-}
-
 @media (min-width:1400px) {
   .max-w-293{
     max-width: unset;
