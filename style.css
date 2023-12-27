@@ -218,19 +218,17 @@ ul {
 
 .logo-hover {
   transition: 300ms linear;
+  fill: white;
 }
 
-.logo-hover:hover {
-  transform: translateY(-5px);
-}
 
 .sec_card {
   width: 100%;
   max-width: 426px;
-  height: 511px;
+  height: 100%;
   border-radius: 20px;
   background: var(--bg-blue-card);
-  padding: 39px 39px 0px 40px;
+  padding: 39px 39px 34px 40px;
 }
 
 .max-w-347 {
